@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../htmls-css"
+		},
+		{
+			"path": "../tutor"
+		},
+		{
+			"path": "../git-tutorial"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tutor"
+	}
+}
